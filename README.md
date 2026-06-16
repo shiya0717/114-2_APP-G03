@@ -7,7 +7,7 @@
 
 ## 🚀 組長第一步：如何使用此模板
 1. 點選本頁面右上角的 **「Use this template」** > **「Create a new repository」**。
-2. Repository name 請命名為：`114-2_APP-G01`（請將 `01` 替換為你們的組別編號）。
+2. Repository name 請命名為：`114-2_APP-G01`（請將 `01` 替換為你們的組別編號）。 
 3. 隱私權設定請保持 **Public**。
 4. 建立後，進入 Settings > Collaborators，邀請以下成員加入（權限設為 Write）：
    * 所有小組成員
